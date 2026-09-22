@@ -28,3 +28,7 @@ dist-ssr
 .env.*
 !.env.example
 # Supabase local filessupabase/.temp/
+
+.env
+.env.*
+!.env.examplesupabase/.temp/
